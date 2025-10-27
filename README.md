@@ -1,6 +1,6 @@
 <a href="https://etilia.pythonanywhere.com/link">
   <img
-    src="https://etilia.pythonanywhere.com"
+    src="https://etilia.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
     alt="Current Spotify Song"
   />
 </a>
