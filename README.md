@@ -2,7 +2,7 @@
 <a href="https://etilia.pythonanywhere.com/link">
   <img
     src="https://etilia.pythonanywhere.com?scan=true&eq_color=rainbow&theme=dark"
-    alt="Current Spotify Song"
+    alt="Spotify Song Im listening to rn"
   />
 </a>
 
